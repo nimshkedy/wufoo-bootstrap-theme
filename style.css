@@ -1174,6 +1174,9 @@ h6,
   line-height: 1.1;
   color: inherit;
 }
+h2, .h2 {
+  display: none;
+}
 h1 small,
 h2 small,
 h3 small,
